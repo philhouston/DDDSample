@@ -55,6 +55,7 @@
     <Compile Include="EmailAddressTests.cs" />
     <Compile Include="PersonTests.cs" />
     <Compile Include="RegisteredIdentifierTests.cs" />
+    <Compile Include="PersonNameTests.cs" />
     <Compile Include="WebAddressTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

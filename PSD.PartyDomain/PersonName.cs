@@ -12,7 +12,7 @@ namespace PSD.PartyDomain
     {
         public PersonName(string firstname, string lastname)
         {
-            if(String.IsNullOrEmpty(firstname))
+            if (String.IsNullOrEmpty(firstname))
                 throw new ArgumentNullException("firstname");
 
             if(String.IsNullOrEmpty(lastname))
